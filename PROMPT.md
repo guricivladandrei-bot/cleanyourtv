@@ -1,4 +1,4 @@
-# The prompt
+#git clone https://github.com/Gathin23/cleanyourtv
 
 Paste this into Claude Code (or another coding assistant with shell access) on a computer that is
 on the same Wi-Fi as the TV. Works on Android TV / Google TV sets (Xiaomi, TCL, Hisense, Sony,
